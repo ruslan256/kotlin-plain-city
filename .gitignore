@@ -1,0 +1,8 @@
+﻿# IntelliJ
+.idea
+log/
+target/
+out/
+*.ipr
+*.iml
+*.iws
