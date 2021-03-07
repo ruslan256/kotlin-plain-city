@@ -3,6 +3,7 @@
 log/
 target/
 out/
+lib/
 *.ipr
 *.iml
 *.iws
