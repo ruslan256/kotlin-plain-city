@@ -11,7 +11,7 @@ import ru.ruslan.learn.city.objects.Settler
 // В интерфейсах нельзя объявлять переменные, только константы (для переменных мы создаем методы get - тем самым обязываем классы-реализации иметь это свойство)
 
 // 1-й вариант хранения константы
-const val DEFAULT_CAPACITY = 2
+//const val DEFAULT_CAPACITY = 2
 
 // квартира
 interface IFlat {
